@@ -1,0 +1,16 @@
+
+.calculator{
+	background:red ;
+	width:400px;
+	margin:5px ;
+	height: 500px;
+}
+ input{
+ 	width: 100px;
+	padding: 20px;
+	margin: 10px;
+	font-size: 30px;
+    align-items: center;
+
+
+}
